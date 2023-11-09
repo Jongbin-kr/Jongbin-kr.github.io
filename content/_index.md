@@ -72,10 +72,11 @@ sections:
           description: |2-
               These are some of classes & MOOC courses that I was especially interested in.
 
-              * Theoritical Linguistics: Morphology(LING322), Generative Grammar(LING422), Semiotics(LING221)
-              * Applied Linguistics: Cognitive Linguistics(LING333), Language & Computer(LING405), Language & Statistics(LING262), Language & Artifical Intelligence(LING414), Dialogue Analysis(ENGL425)
-              * Mathematics: Linear Algebra(IMEN151), [Calculus](https://etl.snu.ac.kr/courses/63fd91eb9cd8085ea00a4ccf)(MOOC in Seoul National Univ.)
-              * Computer Science: Data Structure()
+              * Theoritical Linguistics: Morphology(LING322), Generative Grammar(LING422), Semiotics(LING221), Dialogue Analysis(ENGL425)
+              * Applied Linguistics: Cognitive Linguistics(LING333), Language & Computer(LING405), Language & Statistics(LING262), Language & Artificial Intelligence(LING414)
+              * Mathematics: Linear Algebra(IMEN151), [Calculus](https://etl.snu.ac.kr/courses/63fd91eb9cd8085ea00a4ccf)(MOOC in Seoul National Univ.), Probability & Stochastic Process(COSE382)
+              * Computer Science: Data Structures(COSE213), Algorithms(COSE214)
+              * Artificial Intelligence: Artificial Intelligence(COSE361), Pattern Recognition(KECE470), Machine Learning(COSE362), Deep Learning(COSE474)
         - title: Project & Research Intern
           company: RILI (Research Institue for Language and Information)
           company_url: 'https://kurili.korea.ac.kr/rili/index.do'
@@ -84,11 +85,10 @@ sections:
           date_start: '2022-05-01'
           date_end: ''
           description: |2-
-              * [Build Medical/Legal Training & Evaluation Dataset](https://www.healthinnews.co.kr/news/articleView.html?idxno=31297) (2022.05. ~ 2022.12.)
-
-                * National Project organized by NIA(National Information society Agency)
-              
-              * Research on `Viability of Korean Visual Abductive Reasoning` (2022.11. ~ Present)
+              * National Project organized by `NIA(National Information society Agency)`, [building Medical/Legal Training & Evaluation Dataset](https://www.healthinnews.co.kr/news/articleView.html?idxno=31297) (2022.05. ~ 2022.12.)
+              * Research on `Viability of Korean Visual Abductive Reasoning`. (2022.11. ~ Present)
+                  * The dataset used in the research was built with the support of the National Institute of Korean Language
+                  * This research project was supported by National Research Foundation of Korea.
                 
     design:
       columns: '2'
