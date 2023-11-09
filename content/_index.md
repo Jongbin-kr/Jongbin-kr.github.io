@@ -70,11 +70,12 @@ sections:
           date_start: '2018-03-01'
           date_end: '2024-06-30'
           description: |2-
-              Responsibilities include:
+              These are some of classes & MOOC courses that I was especially interested in.
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Theoritical Linguistics: Morphology(LING322), Generative Grammar(LING422), Semiotics(LING221)
+              * Applied Linguistics: Cognitive Linguistics(LING333), Language & Computer(LING405), Language & Statistics(LING262), Language & Artifical Intelligence(LING414), Dialogue Analysis(ENGL425)
+              * Mathematics: Linear Algebra(IMEN151), [Calculus](https://etl.snu.ac.kr/courses/63fd91eb9cd8085ea00a4ccf)(MOOC in Seoul National Univ.)
+              * Computer Science: Data Structure()
         - title: Project & Research Intern
           company: RILI (Research Institue for Language and Information)
           company_url: 'https://kurili.korea.ac.kr/rili/index.do'
@@ -84,9 +85,10 @@ sections:
           date_end: ''
           description: |2-
               * [Build Medical/Legal Training & Evaluation Dataset](https://www.healthinnews.co.kr/news/articleView.html?idxno=31297) (2022.05. ~ 2022.12.)
+
                 * National Project organized by NIA(National Information society Agency)
               
-              * Research on `Viability of Korean Visual Abductive Reasoning`
+              * Research on `Viability of Korean Visual Abductive Reasoning` (2022.11. ~ Present)
                 
     design:
       columns: '2'
