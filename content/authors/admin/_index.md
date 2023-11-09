@@ -58,7 +58,7 @@ skills:
         icon: python
         icon_pack: fab
       - name: Applied Linguistics
-        description: 'Computational Linguistics, Word Embedding, Syntax, Morphology, Dialogue Analysis'
+        description: 'Computational Linguistics, Word Embedding, Chatbot'
         percent: 65
         icon: language
         icon_pack: fas
@@ -77,7 +77,7 @@ skills:
         icon: film
         icon_pack: fas
       - name: '[Listening To Musics🎶](https://www.youtube.com/playlist?list=PLGTgZhXnsIXoCLdrvRj3EPr6Q8ohQruTP)'
-        description: 'Big fan of Oasis'
+        description: 'Big fan of Oasis!'
         percent: 70
         icon: music
         icon_pack: fas
@@ -113,6 +113,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
+  - icon: blogger-b
+    icon-pack: fab
+    link: https://dieyoung211.tistory.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
