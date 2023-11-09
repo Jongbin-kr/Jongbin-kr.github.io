@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jongbin Won's CV # Website name
-baseURL: 'https://jongbin-cv.github.io/' # Website URL
+baseURL: 'https://example.com' # Website URL
 
 ############################
 ## LANGUAGE
