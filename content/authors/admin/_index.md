@@ -58,7 +58,7 @@ skills:
         icon: python
         icon_pack: fab
       - name: Applied Linguistics
-        description: 'Synax, Morphology, Dialogue Analysis'
+        description: 'Computational Linguistics, Word Embedding, Syntax, Morphology, Dialogue Analysis'
         percent: 65
         icon: language
         icon_pack: fas
@@ -71,12 +71,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Watching Movies
+      - name: [Watching Movies🎬](https://pedia.watcha.com/ko-KR/users/2mwvggw902vMa)
         description: 'I love Coen brothers'
         percent: 60
         icon: film
         icon_pack: fas
-      - name: Listening To Musics
+      - name: [Listening To Musics🎶](https://www.youtube.com/playlist?list=PLGTgZhXnsIXoCLdrvRj3EPr6Q8ohQruTP)
         description: 'Big fan of Oasis'
         percent: 70
         icon: music
