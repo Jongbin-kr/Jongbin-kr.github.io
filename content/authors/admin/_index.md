@@ -39,15 +39,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.A. in Linguistics
+      institution: Korea University
+      year: 2018~2024
+    - course: B.Sc. in Artificial Intelligence
+      institution: Korea University
+      year: 2018~2024
+
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,7 +59,7 @@ skills:
         icon_pack: fab
       - name: Applied Linguistics
         description: 'Synax, Morphology, Dialogue Analysis'
-        percent: 70
+        percent: 65
         icon: language
         icon_pack: fas
       - name: C++
@@ -73,20 +71,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
+      - name: Watching Movies🎬
+        description: 'I love Coen brothers'
         percent: 60
-        icon: person-hiking
+        icon: film
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+      - name: Listening To Musics
+        description: 'Big fan of Oasis'
+        percent: 70
+        icon: music
         icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+      - name: Work Out
+        description: 'Going to Gym & Running!'
+        percent: 50
+        icon: dumbbell
         icon_pack: fas
 
 # Social/Academic Networking
