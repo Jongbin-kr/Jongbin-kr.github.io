@@ -71,7 +71,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: [Watching Movies🎬](https://pedia.watcha.com/ko-KR/users/2mwvggw902vMa)
+      - name: Watching Movies
         description: 'I love Coen brothers'
         percent: 60
         icon: film
