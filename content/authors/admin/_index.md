@@ -25,9 +25,10 @@ organizations:
     url: https://www.korea.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 안녕하세요!🖐️ 언어와 컴퓨터(인공지능)를 공부하고 있는, 원종빈이라고 합니다. 아직은 많이 부족하지만, 열심히 공부해서 언젠가는 자연어처리(NLP) 연구원이 되길 꿈꾸고 있습니다.
-
-Hello!🖐️ I'm Jongbin Won, studying Linguistics & Computer Science(especially AI). I'm still lacking a lot, but studying hard and I'm dreaming of becoming a natural language processing (NLP) researcher someday.
+bio: |
+  안녕하세요!🖐️ 언어와 컴퓨터(인공지능)를 공부하고 있는, 원종빈이라고 합니다. 아직은 많이 부족하지만, 열심히 공부해서 언젠가는 자연어처리(NLP) 연구원이 되길 꿈꾸고 있습니다. 
+  
+  Hello!🖐️ I'm Jongbin Won, studying Linguistics & Computer Science(especially AI). I'm still lacking a lot, but studying hard and I'm dreaming of becoming a natural language processing (NLP) researcher someday.
 
 # Interests to show in About widget
 interests:
