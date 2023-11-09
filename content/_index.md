@@ -62,27 +62,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: B.A. in Linguistics & B.Sc. in Artificial Intelligence
+          company: Korea University
+          company_url: 'https://www.korea.ac.kr/'
+          company_logo: korea-univ
+          location: Seoul, South Korea
+          date_start: '2018-03-01'
+          date_end: '2024-06-31'
           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Project & Research Intern
+          company: RILI (Research Institue for Language and Information)
+          company_url: 'https://kurili.korea.ac.kr/rili/index.do'
+          company_logo: korea-univ
+          location: Seoul, South Korea
+          date_start: '2022-05-01'
+          date_end: ''
+          description: |2-
+              * [Build Medical/Legal Training & Evaluation Dataset](https://www.healthinnews.co.kr/news/articleView.html?idxno=31297) (2022.05. ~ 2022.12.)
+                * National Project organized by NIA(National Information society Agency)
+              
+              * Research on `Viability of Korean Visual Abductive Reasoning`
+                
     design:
       columns: '2'
   - block: accomplishments
