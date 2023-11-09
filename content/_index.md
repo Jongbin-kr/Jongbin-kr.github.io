@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: B.A. in Lingsutics & B.Sc. in Artificial Intelligence
-          company: Korea University
+        - title: CEO
+          company: GenCoin
           company_url: ''
-          company_logo: korea-unive
-          location: Seoul, South Korea
-          date_start: '2018-03-01'
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
