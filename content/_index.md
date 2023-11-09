@@ -72,11 +72,11 @@ sections:
           description: |2-
               These are some of classes & MOOC courses that I was especially interested in.
 
-              * Theoritical Linguistics: Morphology(LING322), Generative Grammar(LING422), Semiotics(LING221), Dialogue Analysis(ENGL425)
-              * Applied Linguistics: Cognitive Linguistics(LING333), Language & Computer(LING405), Language & Statistics(LING262), Language & Artificial Intelligence(LING414)
-              * Mathematics: Linear Algebra(IMEN151), [Calculus](https://etl.snu.ac.kr/courses/63fd91eb9cd8085ea00a4ccf)(MOOC in Seoul National Univ.), Probability & Stochastic Process(COSE382)
+              * Theoritical Linguistics: Morphology(LING322), Generative Grammar(LING422), Semiotics(LING221), Dialogue Analysis(ENGL425), Theory of Grammar(LING461)
+              * Applied Linguistics: Cognitive Functional Linguistics(LING333), Language & Computer(LING405), Language & Statistics(LING262), Language & Artificial Intelligence(LING414)
+              * Mathematics: Linear Algebra(IMEN151), [Calculus](https://etl.snu.ac.kr/courses/63fd91eb9cd8085ea00a4ccf)(MOOC in Seoul National Univ.), Probability & Random Process(COSE382)
               * Computer Science: Data Structures(COSE213), Algorithms(COSE214)
-              * Artificial Intelligence: Artificial Intelligence(COSE361), Pattern Recognition(KECE470), Machine Learning(COSE362), Deep Learning(COSE474)
+              * Artificial Intelligence: Artificial Intelligence(COSE361), Pattern Recognition(KECE470), Machine Learning(COSE362), Deep Learning(COSE474), Ethics of Artificial Intelligence(AICE301)
         - title: Project & Research Intern
           company: RILI (Research Institue for Language and Information)
           company_url: 'https://kurili.korea.ac.kr/rili/index.do'
@@ -105,33 +105,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+        - certificate_url: https://drive.google.com/file/d/1ImLJI8IpeJ2JuuYt-zWCr57DXXnXyBKj/view?usp=sharing
+          date_start: '2022-08-01'
+          date_end: '2022-11-02'
+          description: 'Got Honorable mentions and cash prizes for developing the system of Depression Early Warning for community(Everytime) users'
+          icon: 
+          organization: Korea Univ. Campus Town
+          organization_url: http://www.campustown.or.kr/
+          title: Digital SW Convergence Content Contest (Korea Univ. Campus Town)
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - certificate_url: https://drive.google.com/file/d/1zL1FaQcPVd264twFRJdqdqI4_vek8WAk/view?usp=sharing
+          date_start: '2023-10-13'
+          date_end: '2023-10-14'
+          description: 
+          icon: 
+          organization: ALAK (Applied Linguistics Association of Korea)
+          organization_url: https://alak.jams.or.kr/co/main/jmMain.kci
+          title: ALAK 2023 Poster Presentation
+          url: 
     design:
       columns: '2'
   # - block: collection
@@ -242,7 +233,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        You can send email me through `wonjb001@naver.com`. The following form may not work :(
       # Contact (add or remove contact options as necessary)
       email: wonjb001@naver.com
       # phone: 888 888 88 88
