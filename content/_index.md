@@ -83,7 +83,7 @@ sections:
           date_start: '2022-05-01'
           date_end: ''
           description: |2-
-              * [Build Medical/Legal Training & Evaluation Dataset](https://www.healthinnews.co.kr/news/articleView.html?idxno=31297) (2022.05. ~ 2022.12.)
+              * Build Medical/Legal Training & Evaluation Dataset(2022.05. ~ 2022.12.)
                 * National Project organized by NIA(National Information society Agency)
               
               * Research on `Viability of Korean Visual Abductive Reasoning`
