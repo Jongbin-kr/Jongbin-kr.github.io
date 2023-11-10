@@ -70,7 +70,7 @@ sections:
           date_start: '2018-03-01'
           date_end: '2024-06-30'
           description: |2-
-              These are some of classes & MOOC courses that I was especially interested in.
+              These are some of classes & MOOC courses that I was especially interested in. 
 
               * Theoritical Linguistics: Morphology(LING322), Generative Grammar(LING422), Semiotics(LING221), Dialogue Analysis(ENGL425), Theory of Grammar(LING461)
               * Applied Linguistics: Cognitive Functional Linguistics(LING333), Language & Computer(LING405), Language & Statistics(LING262), Language & Artificial Intelligence(LING414)

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2023-1 🥽Dive into Python🐍"
+title: "(2023-1) 🥽Dive into Python🐍"
 event: Study Session(Github)
 event_url: https://github.com/Jongbin-kr/2023-1_Dive_into_Python
 location: Creators Space Anam
@@ -12,7 +12,8 @@ address:
   postcode:
   country: Korea
 summary: Basic Python session for NLP Beginners, focusing on Python OOP
-abstract:
+abstract: |
+  Jongbin Won taught a basic Python course that focused specifically on Python OOP. Starting with the most basic `print("Hello Word!")`, he taught the built-in datatypes in Python and the basic methods built in each datatype. And finally he tried to teach the concept of OOP in Python with the lesson that"Everything is Object in Python".
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +25,7 @@ all_day: true
 publishDate: 2023-11-10T05:46:23Z
 
 authors: [Jongbin Won]
-tags: [NLP]
+tags: [NLP, Python]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -40,7 +41,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: GIthub
+- name: Github
   url: https://github.com/Jongbin-kr/2023-1_Dive_into_Python
   icon_pack: fab
   icon: github
