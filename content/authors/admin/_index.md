@@ -113,8 +113,8 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: blogger-b
-    icon-pack: fab
+  - icon: pen-nib
+    icon-pack: fas
     link: https://dieyoung211.tistory.com/
   - icon: cv
     icon_pack: ai

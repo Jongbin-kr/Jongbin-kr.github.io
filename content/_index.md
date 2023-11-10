@@ -85,10 +85,10 @@ sections:
           date_start: '2022-05-01'
           date_end: ''
           description: |2-
-              * National Project organized by `NIA(National Information society Agency)`, [building Medical/Legal Training & Evaluation Dataset](https://www.healthinnews.co.kr/news/articleView.html?idxno=31297) (2022.05. ~ 2022.12.)
+              * National Project organized by **NIA(National Information society Agency)**, [building Medical/Legal Training & Evaluation Dataset](https://www.healthinnews.co.kr/news/articleView.html?idxno=31297) (2022.05. ~ 2022.12.)
               * Research on `Viability of Korean Visual Abductive Reasoning`. (2022.11. ~ Present)
-                  * The dataset used in the research was built with the support of the National Institute of Korean Language
-                  * This research project was supported by National Research Foundation of Korea.
+                  * The dataset used in the research was built with the support of **the National Institute of Korean Language**
+                  * This research project was supported by **National Research Foundation of Korea**.
                 
     design:
       columns: '2'
@@ -108,7 +108,7 @@ sections:
         - certificate_url: https://drive.google.com/file/d/1ImLJI8IpeJ2JuuYt-zWCr57DXXnXyBKj/view?usp=sharing
           date_start: '2022-08-01'
           date_end: '2022-11-02'
-          description: 'Got Honorable mentions and cash prizes for developing the system of Depression Early Warning for community(Everytime) users'
+          description: 'Got Honorable mentions and cash prizes for developing `the system of Depression Early Warning for community(Everytime) users`'
           icon: 
           organization: Korea Univ. Campus Town
           organization_url: http://www.campustown.or.kr/
@@ -117,7 +117,7 @@ sections:
         - certificate_url: https://drive.google.com/file/d/1zL1FaQcPVd264twFRJdqdqI4_vek8WAk/view?usp=sharing
           date_start: '2023-10-13'
           date_end: '2023-10-14'
-          description: 
+          description: 'Preseted `Viability of Korean Visual Abductive Reasoning` You can see the poster [here]()'
           icon: 
           organization: ALAK (Applied Linguistics Association of Korea)
           organization_url: https://alak.jams.or.kr/co/main/jmMain.kci
