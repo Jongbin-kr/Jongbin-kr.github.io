@@ -117,7 +117,7 @@ sections:
         - certificate_url: https://drive.google.com/file/d/1zL1FaQcPVd264twFRJdqdqI4_vek8WAk/view?usp=sharing
           date_start: '2023-10-13'
           date_end: '2023-10-14'
-          description: 'Preseted `Viability of Korean Visual Abductive Reasoning` You can see the poster [here]()'
+          description: 'Preseted `Viability of Korean Visual Abductive Reasoning` You can see the poster [here](https://drive.google.com/file/d/1A84e3fJweRsyvAmojSMM-jjgG2SGfRf5/view?usp=sharing)'
           icon: 
           organization: ALAK (Applied Linguistics Association of Korea)
           organization_url: https://alak.jams.or.kr/co/main/jmMain.kci
