@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: Experiences
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -213,7 +213,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Seminars & Session
+      title: Seminars & Sessions
       filters:
         folders:
           - event
