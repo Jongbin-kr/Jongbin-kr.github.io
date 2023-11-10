@@ -61,16 +61,21 @@ skills:
         icon: language
         icon_pack: fas
       - name: C++
-        description: 'studying with CUDA'
-        percent: 20
-        icon: terminal
+        description: 'studying C++ parallel programming with CUDA'
+        percent: 12
+        icon: code
         icon_pack: fas
+      - name: Javascript
+        description: 'Yeah I wanna be a full-stack MLOps someday haha'
+        percent: 10
+        icon: js
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: '[Watching Movies🎬](https://pedia.watcha.com/ko-KR/users/2mwvggw902vMa)'
-        description: 'I love Coen brothers'
+        description: 'I love Hayao Miyazaki, Changdong Lee, Quentin Tarantino, and **Coen brothers**!'
         percent: 60
         icon: film
         icon_pack: fas
