@@ -16,8 +16,8 @@ abstract: Jongbin Won have tried to convey some of the skills that aren't typica
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-03-21T06:47:51Z
-date_end: 2023-03-21T06:47:51Z
+date: 2023-10-10T06:47:51Z
+date_end: 2023-10-10T06:47:51Z
 all_day: true
 
 # Schedule page publish date (NOT event date).
