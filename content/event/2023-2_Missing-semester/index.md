@@ -39,11 +39,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Github
+  url: https://github.com/Jongbin-kr/2023-2_Missing-Semester
+  icon_pack: fab
+  icon: github
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
