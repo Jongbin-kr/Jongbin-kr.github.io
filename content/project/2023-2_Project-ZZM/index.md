@@ -17,19 +17,19 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+    name: Github
+    url: https://github.com/pyville/zzm-web
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 **Project ZZM** is developing the following web/app services. When you are studying, driving, or doing other tasks, it recognizes the size of your eyes, analyze the pattern of your body moving, etc. from live video and predicts whether you are dozing or not. And if it predcits you are, it sends an alarm to help you wake up or focus. We are going to add other features like tracker, advertisements, communities and so on. 
