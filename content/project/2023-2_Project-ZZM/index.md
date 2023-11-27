@@ -11,7 +11,7 @@ date: "2023-11-25T00:00:00Z"
 external_link: ''
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by Jongbin Won
   focal_point: Smart
 
 links:
