@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "(2023-1) 🥽Dive into Python🐍"
-event: Session Leaded by Jongbin Won (Github)
+event: Session Leaded me (Github)
 event_url: https://github.com/Jongbin-kr/2023-1_Dive_into_Python
 location: Creators Space Anam
 address:

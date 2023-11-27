@@ -13,7 +13,7 @@ address:
   country: South Korea
 summary: Study Python for Data Analysis with `Numpy`, `Pandas`, and `Matplotlib`
 abstract: |
-  We studied Python for Data Analysis based on Wes Mckinney's book <Python for Data Analysis>. We studied how to use `Numpy`, `Pandas`, and `Matplotlib` library for tabular data analysis.
+  We studied Python for Data Analysis based on [Wes Mckinney's book <Python for Data Analysis>](https://www.oreilly.com/library/view/python-for-data/9781491957653/). We studied how to use `Numpy`, `Pandas`, and `Matplotlib` library for tabular data analysis.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

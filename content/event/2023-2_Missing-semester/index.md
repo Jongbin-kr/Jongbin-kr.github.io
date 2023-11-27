@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "(2023-2) Missig Semester for your NLP studies"
-event: Seminar that I leaded (Github)
+event: Seminar that I presented (Github)
 event_url: https://github.com/Jongbin-kr/2023-2_Missing-Semester
 location: Bluework
 address:
